@@ -1,4 +1,5 @@
 #/bin/bash
+NUMBER$1=FRUITS
 
 FRUITS=("Apple" "Banana" "mango") 
 
@@ -8,4 +9,4 @@ echo "Second value: ${Fruits[1]}"
 
 echo "Third value: ${Fruits[2]}"
 
-echo "All fruits: ${Fruits[@]}
+echo "All Fruits: ${Fruits[@]}
